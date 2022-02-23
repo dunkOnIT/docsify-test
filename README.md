@@ -3,6 +3,8 @@
 Steps to test: 
 
 - [x] Initial setup
-- [ ] Deploy to Github pages 
+- [x] Deploy to Github pages 
 - [ ] Bring across pages
 - [ ] Create nav bar
+
+Docs here: https://docsify.js.org/#/cover   
