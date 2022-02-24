@@ -1,4 +1,4 @@
 * Getting Started
-* API Reference
+* [API Reference](pages/api-reference.md)
 * Contributing
 * Experiments
