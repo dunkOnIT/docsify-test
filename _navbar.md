@@ -1,4 +1,4 @@
-* Getting Started
+* [Getting Started](pages/getting-started.md)
 * [API Reference](pages/api-reference.md)
-* Contributing
-* Experiments
+* [Experiments](pages/experiments.md)
+* [Contributing](pages/contributing.md)
